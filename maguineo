@@ -8,10 +8,10 @@ Speed: 25
 
 Abilities: 
     Str: 8
-    Dex: 16
+    Dex: 16 (15+1)
     Con: 14
     Wis: 10
-    Int: 17
+    Int: 17 (15+1+1)
     Car: 8
 
 Saves:
@@ -22,7 +22,7 @@ Saves:
 Hit Dice: 1d8
 
 Power Source: Arcane
- Themes: Force (, Earth (Evoker?), Fire, Ice
+ Themes: Force, Air(Evoker), Fire&Ice (ArcaneDiscovery)
 
 Spells:
  Force:
