@@ -8,7 +8,7 @@ Speed: 25
 
 Abilities: 
     Str: 8
-    Dex: 15
+    Dex: 16
     Con: 14
     Wis: 10
     Int: 17
@@ -36,8 +36,8 @@ Spells:
      (0) Frostbite - fort save, 1d8, 60ft., disadvantage on the next weapon attack roll it makes before the end of its next turn
      (0) Icicle - 1d6, 120ft., -10 speed for 1 turn
      (1) Cone of Cold - fort save, 2d10 and speed is halved until the end of its next turn
- Earth:
-     (0) Earthen Hide - end of next turn, disadvantage + resistance to nonmagic weapon attacks
+ Air:
+     (0) Updraft - reflex saving throw, lift 10ft in the air
  Pegar +2 spells mesmo sem ter theme por causa do Arcane Secrets de mage lvl 2 ----------------------------------------------------------
 Gear:
     Força de vontade e já já Mage Armor com perk lul
@@ -61,5 +61,5 @@ Traits:
      Arcane Power - Power Source/Theme (force,forcebeam), Arcane Discoveries (magearmor,fire,2firecantrip,scorchray,2icecantrip,coneofcold), Mana/Energy
      Arcane Study - +1 Theme, escolhi Ice, precisa de Nature skill ( que já tenho ) pois é Primal
      Arcane Secrets - +2 spells de qualquer theme mesmo sem saber o theme ----------------------------------------------------------
-     Arcane Inspiration ----------------------------------------------------------- You can call a spell to mind that suits your needs. On your turn with your spellbook in hand, you can cast a spell in your spellbook as if you know it. Once you use this feature, you must finish a short or long rest before you can use it again. lso, on a short rest you can choose a number of spells you know up to half your proficiency bonus (rounded down) and replace each of them with another spell in your spellbook from a theme you know, which must cost equal to, or less than, your energy limit. On a long rest you can choose and replace a number of spells equal to your proficiency bonus.
-     Evoker - escolher um (Earth, Earthen Hide?)
+     Arcane Inspiration PINHO ME SALVA----------------------------------------------------------- You can call a spell to mind that suits your needs. On your turn with your spellbook in hand, you can cast a spell in your spellbook as if you know it. Once you use this feature, you must finish a short or long rest before you can use it again. lso, on a short rest you can choose a number of spells you know up to half your proficiency bonus (rounded down) and replace each of them with another spell in your spellbook from a theme you know, which must cost equal to, or less than, your energy limit. On a long rest you can choose and replace a number of spells equal to your proficiency bonus.
+     Evoker - Air/Updraft
